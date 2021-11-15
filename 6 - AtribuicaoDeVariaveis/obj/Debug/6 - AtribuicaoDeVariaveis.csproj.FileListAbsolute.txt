@@ -1,0 +1,6 @@
+C:\AprendendoCSharp\6 - AtribuicaoDeVariaveis\bin\Debug\6 - AtribuicaoDeVariaveis.exe.config
+C:\AprendendoCSharp\6 - AtribuicaoDeVariaveis\bin\Debug\6 - AtribuicaoDeVariaveis.exe
+C:\AprendendoCSharp\6 - AtribuicaoDeVariaveis\bin\Debug\6 - AtribuicaoDeVariaveis.pdb
+C:\AprendendoCSharp\6 - AtribuicaoDeVariaveis\obj\Debug\6 - AtribuicaoDeVariaveis.csproj.CoreCompileInputs.cache
+C:\AprendendoCSharp\6 - AtribuicaoDeVariaveis\obj\Debug\6 - AtribuicaoDeVariaveis.exe
+C:\AprendendoCSharp\6 - AtribuicaoDeVariaveis\obj\Debug\6 - AtribuicaoDeVariaveis.pdb
